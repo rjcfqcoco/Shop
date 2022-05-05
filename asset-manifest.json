@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Shop/static/css/main.84df0d83.css",
+    "main.js": "/Shop/static/js/main.f4f81e25.js",
+    "static/media/Bgg.webp": "/Shop/static/media/Bgg.b9f57d87228e246aa7e1.webp",
+    "index.html": "/Shop/index.html",
+    "main.84df0d83.css.map": "/Shop/static/css/main.84df0d83.css.map",
+    "main.f4f81e25.js.map": "/Shop/static/js/main.f4f81e25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84df0d83.css",
+    "static/js/main.f4f81e25.js"
+  ]
+}
